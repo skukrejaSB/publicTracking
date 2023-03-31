@@ -1,0 +1,37 @@
+
+    {
+      "checkpoint_date": "2023-03-30T20:18:03-07:00",
+      "checkpoint_delivery_status": "transit",
+      "checkpoint_delivery_substatus": "transit001",
+      "tracking_detail": "Left FedEx origin facility",
+      "location": "LAS VEGAS,NV US",
+      "country_iso2": "US",
+      "state": "NV",
+      "city": "LAS VEGAS",
+      "zip": "89115",
+      "raw_status": null
+    },
+    {
+      "checkpoint_date": "2023-03-30T18:13:00-07:00",
+      "checkpoint_delivery_status": "transit",
+      "checkpoint_delivery_substatus": "transit001",
+      "tracking_detail": "Arrived at FedEx location",
+      "location": "LAS VEGAS,NV US",
+      "country_iso2": "US",
+      "state": "NV",
+      "city": "LAS VEGAS",
+      "zip": "89115",
+      "raw_status": null
+    },
+    {
+      "checkpoint_date": "2023-03-30T13:47:02-07:00",
+      "checkpoint_delivery_status": "transit",
+      "checkpoint_delivery_substatus": "notfound001",
+      "tracking_detail": "Shipment information sent to FedEx",
+      "location": "US",
+      "country_iso2": "US",
+      "state": null,
+      "city": null,
+      "zip": "89115",
+      "raw_status": null
+    }
