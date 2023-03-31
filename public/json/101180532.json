@@ -1,5 +1,5 @@
 
-    {
+   [{
       "checkpoint_date": "2023-03-30T20:18:03-07:00",
       "checkpoint_delivery_status": "transit",
       "checkpoint_delivery_substatus": "transit001",
@@ -34,4 +34,4 @@
       "city": null,
       "zip": "89115",
       "raw_status": null
-    }
+    }]
